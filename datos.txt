@@ -1,0 +1,2 @@
+estudiante|kevin|Goofy1823|
+profesor|logan|Goofy1823|
